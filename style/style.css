@@ -158,7 +158,7 @@ body{
     width: 100%;
 }
 #hero-section {
-    background-image: url('/image/angkor-cover.png');
+    background-image: url('../image/angkor-cover.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
